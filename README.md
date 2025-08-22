@@ -7,7 +7,7 @@ You can:
 - Cross them out when completed 
 - Delete Them.
 
-It is simple, minimalistic and has responsive design for devices of all sizes.
+It is simple, minimalistic.
 
 ### Try it out: https://duxty12.github.io/To-Do-List/
 
