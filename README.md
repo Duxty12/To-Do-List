@@ -9,6 +9,8 @@ You can:
 
 It is simple, minimalistic and has responsive design for devices of all sizes.
 
+### Try it out: https://duxty12.github.io/To-Do-List/
+
 ## Languages and tools:
 
 This full project is built with Javascript, HTML and CSS.  
