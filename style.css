@@ -10,7 +10,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #153677, #4e085f);
+    background: linear-gradient(0deg, #9a7787, #e4afb0, #fed78f);
     padding: 100px;
 }
 
@@ -21,6 +21,8 @@
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
+    border: 3px solid salmon;
+    
 }
 
 .todo-app h2{
@@ -60,6 +62,7 @@ button{
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
+    
 }
 
 ul li{
